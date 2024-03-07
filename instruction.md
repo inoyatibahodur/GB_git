@@ -1,13 +1,13 @@
 ## Инструкция пользователя
 Перемещение по веткам
 ```sh
-git checkout <branch name>
+git checkout <branch_name>
 ```
 Отображения всех веток
 ```sh
-git checkout branch
+git branch
 ```
 Создание новой ветки
 ```sh
-git 
+git branch <name>
 ```
