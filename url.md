@@ -13,3 +13,4 @@
 ## Поисковики
  - **[Google](https://google.ru/)**
  - **[Yandex](https://yandex.ru/)**
+ - **[Tajnature](https://Tajnature.tj/)**
